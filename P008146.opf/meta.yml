@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG3832
   title: ཤེར་ཕྱིན་གྱི་ལུང་ལ་འཇུག་པའི་སྒོ་
-  volume: ''
+  volume:
+    df6d0eb2373e434183a3a3b48ce23f9a:
+      image_group_id: I1KG3895
+      title: Volume 1 of sher phyin gyi lung la 'jug pa'i sgo
+      volume_number: 1
+      total_pages: 88
   author: ''
+ebook_metadata:
+  title: ཤེར་ཕྱིན་གྱི་ལུང་ལ་འཇུག་པའི་སྒོ་
+  author: ''
+  sku: P008146
+  cover: cover.jpg
+  layers:
+  - pagination

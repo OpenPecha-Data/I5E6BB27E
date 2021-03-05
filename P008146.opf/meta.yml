@@ -1,15 +1,16 @@
-id: opecha:P008146
+id: P008146
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG3832
   title: ཤེར་ཕྱིན་གྱི་ལུང་ལ་འཇུག་པའི་སྒོ་
-  volume:
+  author: ''
+  volumes:
     df6d0eb2373e434183a3a3b48ce23f9a:
       image_group_id: I1KG3895
       title: Volume 1 of sher phyin gyi lung la 'jug pa'i sgo
       volume_number: 1
       total_pages: 88
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཤེར་ཕྱིན་གྱི་ལུང་ལ་འཇུག་པའི་སྒོ་
   author: ''

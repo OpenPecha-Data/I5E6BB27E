@@ -5,11 +5,12 @@ source_metadata:
   title: ཤེར་ཕྱིན་གྱི་ལུང་ལ་འཇུག་པའི་སྒོ་
   author: ''
   volumes:
-    4921031ce94144f58d140a2f48893bf8:
+    df6d0eb2373e434183a3a3b48ce23f9a:
       image_group_id: I1KG3895
-      title: ''
+      title: Volume 1 of sher phyin gyi lung la 'jug pa'i sgo
       volume_number: 1
       total_pages: 88
+      base_file: v001.txt
 ebook_metadata:
   title: ཤེར་ཕྱིན་གྱི་ལུང་ལ་འཇུག་པའི་སྒོ་
   author: ''
